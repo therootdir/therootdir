@@ -35,6 +35,8 @@ If not h4ck1n9 or c0d1ng, you might catch me creating cybersecurity content most
 ### TryHackMe Activities
 <img src="https://tryhackme-badges.s3.amazonaws.com/D0ugS3c0p5.png" alt="TryHackMe">
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/D0ugS3c0p5.png)](https://tryhackme.com/p/D0ugS3c0p5)
+
 ## 🎵 Hobbies
 
 When I'm not immersed in the digital world, you might find me:
@@ -47,4 +49,3 @@ Remember: Stay curious, keep learning, and always hack ethically!
 > "If you're not h4ck1n9 or c0d1ng, are you even living?" - DougSec, probably
 
 ![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
-
