@@ -1,6 +1,8 @@
-# 👋 Hello friend, I'm DougSec - The Cyber Warlock 🧙‍♂️
+# hello friend, DougSec - The Cyber Warlock 🧙‍♂️
 
 ![Cyber Warlock GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
+
 
 {cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
 
@@ -47,5 +49,3 @@ When I'm not immersed in the digital world, you might find me:
 Remember: Stay curious, keep learning, and always hack ethically!
 
 > "If you're not h4ck1n9 or c0d1ng, are you even living?" - DougSec, probably
-
-![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
