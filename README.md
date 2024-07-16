@@ -6,7 +6,7 @@ you summoning dougsec huh? the internet prefers douglas lol
 ![Cyber Warlock GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
-{cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
+> {cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
 
 ## whoami again?
 well...if not h4ck1n9 or c0d1ng, you might catch me creating cybersecurity content mostly on YouTube. passionate about all things security, hacking, and building cyber wonders in the digital realm. still in my ethical hours
