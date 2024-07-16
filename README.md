@@ -1,5 +1,5 @@
 # hello friend..👊🏾
-dougsec the cyber-warlock the internet prefers douglas lol
+you summoning dougsec huh? the internet prefers douglas lol
 
 ![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
 
