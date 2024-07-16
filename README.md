@@ -1,9 +1,10 @@
 # hello friend, dougsec the cyber-warlock, i go by douglas on tuesdays
+![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
 
 ![Cyber Warlock GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-{cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
 
-![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
+
+{cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
 
 ## 🚀 what i do & share?
 if not h4ck1n9 or c0d1ng, you might catch me creating cybersecurity content mostly on YouTube. passionate about all things security, hacking, and building cyber wonders in the digital realm. still in my ethical hours
@@ -31,17 +32,12 @@ if not h4ck1n9 or c0d1ng, you might catch me creating cybersecurity content most
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglascybersec&layout=compact&theme=radical&count_private=true)
 
-### TryHackMe Activities
-<img src="https://tryhackme-badges.s3.amazonaws.com/D0ugS3c0p5.png" alt="TryHackMe">
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/D0ugS3c0p5.png)](https://tryhackme.com/p/D0ugS3c0p5)
-
 ## 🎵 hobbies
 when out of the bitnet:
 - 🎸 i write songs (within ethical hours, of course!)
-- 🍳 cook up some peace maker hacker tools
+- 👨🏾‍💻 cook up some peace maker hacker tools
 - 🏗 code, build, and create repeatedly
 
-Remember: stay curious, keep learning, and always hack **ethically**!
+Remember: stay curious, love malware, keep learning, and always hack **ethically**!
 
 > "if you're not h4ck1n9 or c0d1ng, are you even living?" - DougSec, probably
