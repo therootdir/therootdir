@@ -1,6 +1,5 @@
 name: YouTube Videos
 on:
-  push:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
@@ -10,11 +9,13 @@ jobs:
     name: Latest Videos from YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+      - name: Fetch YouTube Videos
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           max_post_count: 5
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC6Ja_tqIC98c42Q4_0-VFfA"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          description_max_length: 140
+          template: "$newline- [$title]($url)"
