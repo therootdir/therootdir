@@ -19,10 +19,9 @@ i've been a tech nerd from day 0, specializing in cybersec loving every bit of "
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/douglascybersec)
 
 
-## watch
+## Watch
 
 <!-- YOUTUBE:START -->
-<!-- This section will be automatically updated with your latest YouTube videos -->
 <!-- YOUTUBE:END -->
 
 
