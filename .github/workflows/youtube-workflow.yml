@@ -9,7 +9,7 @@ jobs:
     name: Latest Videos from YouTube
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Fetch YouTube Videos
         uses: gautamkrishnar/blog-post-workflow@master
         with:
