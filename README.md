@@ -29,7 +29,8 @@ i've been a tech nerd from day 0, specializing in cybersec loving every bit of "
 ## 🛠 skillset
 
 ### github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglascybersec&show_icons=true&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglascybersec&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 
 ### languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglascybersec&layout=compact&theme=radical&count_private=true)
