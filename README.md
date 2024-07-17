@@ -19,15 +19,14 @@ i've been a tech nerd from day 0, specializing in cybersec loving every bit of "
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/douglascybersec)
 
 
-## Watch
+## watch
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
 
-## 🛠 skillset
-
-### github stats
+## stats
+### github
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douglascybersec&theme=radical)
 
 
