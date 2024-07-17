@@ -8,5 +8,3 @@ node_modules/
 # Ignore log files
 *.log
 
-# # Ignore environment files
-# .env
