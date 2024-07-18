@@ -3,7 +3,7 @@ you really are summoning me, huh?? i'm dougsec, unlike everyone who prefers doug
 
 ![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
 
-![Cyber Warlock GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![GIF](https://github.com/douglascybersec/douglascybersec/blob/root/i_live_for_this.gif)
 
 
 > {cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
