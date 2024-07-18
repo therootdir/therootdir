@@ -22,7 +22,11 @@ i've been a tech nerd from day 0, specializing in cybersec loving every bit of "
 ## watch
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+- [Networking, IP Addresses &amp; Spoofing - the basics&lpar;for beginners&rpar; | Staying Anon EP 2](https://www.youtube.com/watch?v=Ix67YzkeiJg)
+- [Truth about Hacking&lpar;It&#39;s not what you think&rpar; #hacking #cybersecurity #ai #aihacks](https://www.youtube.com/watch?v=p7E3eCIOktY)
+- [Kali Linux Upgrade: Secure Your System, Back up with Timeshift [Step-by-Step Guide]](https://www.youtube.com/watch?v=19pD1DGB0dk)
+- [Pro Tip: What to Do After Installing Kali Linux.](https://www.youtube.com/watch?v=Vos7DCTqvSM)
+- [Cybersecurity: Do I need to learn Programming? //Programming languages for cybersecurity unveiled.](https://www.youtube.com/watch?v=JvutduJyXqc)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
 ## stats
