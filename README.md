@@ -35,6 +35,9 @@ i've been a tech nerd from day 0, specializing in cybersec loving every bit of "
 ### languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglascybersec&layout=compact&theme=radical&count_private=true&include_all_commits=true)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 🎵 guilty pleasures
 - 👨🏾‍💻 privately developing peacemaker (sec) hacker tools
