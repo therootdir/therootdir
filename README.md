@@ -34,7 +34,7 @@ i've been a tech nerd from day 0, specializing in cybersec loving every bit of "
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglascybersec&layout=compact&theme=radical&count_private=true&include_all_commits=true)
 
 
-## 🎵 interets & hobbies
+## 🎵 guilty pleasures
 - 👨🏾‍💻 privately developing peacemaker (sec) hacker tools
 - ☕ code, build, secure, hack, create and repeat
 - 🎸 fun fact: i transform poetry into lyrics during my free ethical hours, too
