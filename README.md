@@ -33,7 +33,7 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douglascybersec&theme=radical)
 
 
-### language proficiency
+### auto-language stats
 <!--START_SECTION:languages-->
 
 - Python: 99.97%
