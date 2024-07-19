@@ -1,5 +1,5 @@
-# hello friend..(⊙_⊙;)
-you really are summoning me, huh?? i'm dougsec, unlike everyone who prefers douglas, lol
+# hello friend..👋🏾
+you really are summoning me, huh? i'm dougsec, unlike everyone who prefers douglas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
 
