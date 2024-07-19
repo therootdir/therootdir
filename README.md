@@ -43,6 +43,7 @@ i've been a tech nerd from day 0, specializing in cybersec and loving every bit 
 - 👨🏾‍🍳 love cooking food too -for my "sudo queen" and kids, except some of this a dream
 - 🎸 fun fact: i transform poetry into lyrics during my free ethical hours, too
 
+---
 Remember: stay curious, embrace malware, be aware, and always **hack ethically!**
 
 > "if you're not h4ck1n9 or c0d1ng, are you even living?" - DougSec, probably
