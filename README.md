@@ -13,6 +13,7 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@douglascybersec)
 [![𝕏/Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/douglascybersec)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/D0ugS3c0p5)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/douglascybersec)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@douglascybersec)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/douglascybersec)
 
@@ -32,7 +33,7 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douglascybersec&theme=radical)
 
 
-### languages
+### language proficiency
 <!--START_SECTION:languages-->
 
 - Python: 99.97%
