@@ -46,7 +46,7 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 <!--END_SECTION:languages-->
 
 
-## 🎵 pleasure
+## 🎵 pleasures
 - 👨🏾‍💻 privately developing peacemaker (sec) hacker tools
 - ☕ coffee, code, build, secure, hack, eat, create and repeat
 - 👨🏾‍🍳 i'm a chef for my "sudo queen" and kids, except some is dreams currently
