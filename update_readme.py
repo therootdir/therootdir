@@ -53,9 +53,21 @@ def update_readme(languages):
                 file.write(line)
 
 def main():
+    print("Starting to fetch repositories...")
     repos = get_repos(GITHUB_USERNAME, GITHUB_TOKEN)
+    print(f"Fetched {len(repos)} repositories")
+    
+    print("Starting to fetch languages...")
     languages = get_languages(GITHUB_USERNAME, GITHUB_TOKEN, repos)
+    print(f"Fetched languages: {languages}")
+    
+    print("Updating README...")
     update_readme(languages)
+    print("README update completed")
+
+if __name__ == "__main__":
+    main()
+
 
 if __name__ == "_main_":
     main()
