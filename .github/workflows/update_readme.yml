@@ -6,10 +6,13 @@ on:
   push:
     branches:
       - root
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -28,22 +31,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-        run: |
-          python update_readme.py
-          echo "Script execution completed"
-
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+        run: python update_readme.py
 
       - name: Commit and push changes
-        if: steps.git-check.outputs.changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m 'Update README with latest languages'
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'Update README with latest languages' && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
