@@ -27,13 +27,10 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 - [Pro Tip: What to Do After Installing Kali Linux.](https://www.youtube.com/watch?v=Vos7DCTqvSM)
 - [Cybersecurity: Do I need to learn Programming? //Programming languages for cybersecurity unveiled.](https://www.youtube.com/watch?v=JvutduJyXqc)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
-
-## stats
-### github
+## streaks & Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douglascybersec&theme=radical)
 
-
-### auto-language stats
+## auto-language stats
 <!--START_SECTION:languages-->
 
 - Python: 99.97%
