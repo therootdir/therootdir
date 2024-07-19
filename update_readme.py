@@ -57,5 +57,5 @@ def main():
     languages = get_languages(GITHUB_USERNAME, GITHUB_TOKEN, repos)
     update_readme(languages)
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     main()
