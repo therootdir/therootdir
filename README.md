@@ -34,6 +34,14 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 
 ### languages
 <!--START_SECTION:languages-->
+
+- Python: 99.97%
+- JavaScript: 0.01%
+- HTML: 0.01%
+- CSS: 0.00%
+- C: 0.00%
+- Mako: 0.00%
+- Rust: 0.00%
 <!--END_SECTION:languages-->
 
 
