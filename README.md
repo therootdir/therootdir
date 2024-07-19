@@ -33,8 +33,8 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 
 
 ### languages
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:languages-->
+<!--END_SECTION:languages-->
 
 
 ## 🎵 guilty pleasures
