@@ -14,6 +14,8 @@ def get_repos(username, token):
         headers = {'Authorization': f'token {token}'}
         response = requests.get(url, headers=headers)
         if response.status_code != 200:
+            print(f"Error fetching repositories: Status {response.status_code}")
+            print(f"Response content: {response.text}")
             raise Exception(f'Error fetching repositories: {response.status_code}')
         current_page_repos = response.json()
         if not current_page_repos:
