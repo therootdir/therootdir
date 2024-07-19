@@ -29,7 +29,7 @@ jobs:
 
       - name: Run script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
         run: python update_readme.py
 
@@ -40,4 +40,4 @@ jobs:
           git add README.md
           git diff --quiet && git diff --staged --quiet || (git commit -m 'Update README with latest languages' && git push)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}

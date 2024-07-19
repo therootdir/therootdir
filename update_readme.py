@@ -16,13 +16,14 @@ def get_repos(username, token):
         if response.status_code != 200:
             print(f"Error fetching repositories: Status {response.status_code}")
             print(f"Response content: {response.text}")
-            raise Exception(f'Error fetching repositories: {response.status_code}')
+            return []
         current_page_repos = response.json()
         if not current_page_repos:
             break
         repos.extend([repo for repo in current_page_repos if not repo['fork']])
         page += 1
     return repos
+
 
 def get_languages(username, token, repos):
     languages = defaultdict(int)
@@ -32,17 +33,25 @@ def get_languages(username, token, repos):
         headers = {'Authorization': f'token {token}'}
         response = requests.get(url, headers=headers)
         if response.status_code != 200:
+            print(f"Error fetching languages for {repo['name']}: Status {response.status_code}")
             continue
         repo_languages = response.json()
         for lang, bytes_of_code in repo_languages.items():
             languages[lang] += bytes_of_code
             total_bytes += bytes_of_code
     
+    if total_bytes == 0:
+        return {}
+
     # Convert to percentages
     language_percentages = {lang: (bytes_of_code / total_bytes) * 100 for lang, bytes_of_code in languages.items()}
     return language_percentages
 
 def update_readme(languages):
+    if not languages:
+        print("No language data to update in README.")
+        return
+
     with open(README_FILE, 'r') as file:
         lines = file.readlines()
 
@@ -62,9 +71,18 @@ def update_readme(languages):
                 file.write(line)
 
 def main():
+    if not GITHUB_TOKEN or not GITHUB_USERNAME:
+        print("Error: GITHUB_TOKEN or GITHUB_USERNAME environment variables are not set.")
+        return
+
     repos = get_repos(GITHUB_USERNAME, GITHUB_TOKEN)
+    if not repos:
+        print("No repositories found or error occurred while fetching repositories.")
+        return
+
     languages = get_languages(GITHUB_USERNAME, GITHUB_TOKEN, repos)
     update_readme(languages)
+
 
 if __name__ == "__main__":
     main()
