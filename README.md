@@ -47,7 +47,7 @@ well. i've secretly been a tech nerd from day 0, specializing in cybersec now an
 - 👨🏾‍💻 privately developing peacemaker (sec) hacker tools
 - ☕ coffee, code, build, secure, hack, eat, create and repeat
 - 👨🏾‍🍳 i'm a chef for me, my 'sudo queen' and our kids, except some of it is a dream
-- 🎸 fun fact: i transform poetry into lyrics during my free ethical hours, too
+- 🎸 fun fact 02: i transform poetry into lyrics during my free ethical hours, too
 
 ---
 Remember: stay curious, embrace malware, be aware, and always **hack ethically!**
