@@ -7,7 +7,7 @@ you really are summoning me, huh? i'm dougsec, unlike everyone who prefers dougl
 > {cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
 
 ## whoami (prof details)
-well. i've secretly been a tech nerd with the heart from day 0, specializing in cybersec now and loving every bit of "reverse engineering" i delve even deeper to software dev roles. if not on here, you might catch me creating cybersecurity content, mostly on [youtube](https://www.youtube.com/@douglascybersec)
+well. i've secretly been a tech nerd with the heart from day 0, specializing in cybersec now and loving every bit of "reverse engineering" i delve even deeper to software dev roles. if not on here, you might catch me creating cybersecurity content, mostly on [youtube](https://www.youtube.com/@douglascybersec) and further talk on 𝕏/Twitter.
 
 ## find me
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@douglascybersec)
