@@ -6,8 +6,8 @@ you really are summoning me, huh? i'm dougsec, unlike everyone who prefers dougl
 ![GIF](https://media.giphy.com/media/r5e5Wv61DyeURRIyAR/giphy.gif)
 > {cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube} •• 𝘄𝗶𝘁𝘁𝗶𝗲𝗿 and lyrical 𝘄𝗶𝘁𝗵𝗶𝗻 𝗲𝘁𝗵𝗶𝗰𝗮𝗹 𝗵𝗼𝘂𝗿𝘀
 
-## whoami (prof details)
-well. i've secretly been a tech nerd with the heart from day 0, specializing in cybersec now and loving every bit of "reverse engineering" i delve even deeper to software dev roles. if not on here, you might catch me creating cybersecurity content, mostly on [youtube](https://www.youtube.com/@douglascybersec) and further talk on 𝕏/Twitter.
+## /root id
+from day one, I've been a secret tech nerd with a heart and curiosity to explore the hidden side of people around the world and somehow naturally got into cybersecurity, where my passion for hacking continues to grow and loving every bit of "reverse engineering" i delve even deeper into software dev roles. if not on here, you might catch me creating cybersecurity content, mostly on [youtube](https://www.youtube.com/@douglascybersec) and further talk on 𝕏/Twitter.
 
 ## find me
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@douglascybersec)
@@ -28,7 +28,7 @@ well. i've secretly been a tech nerd with the heart from day 0, specializing in 
 - [Cybersecurity: Do I need to learn Programming? //Programming languages for cybersecurity unveiled.](https://www.youtube.com/watch?v=JvutduJyXqc)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## git contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=douglascybersec&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglascybersec&theme=highcontrast)](https://git.io/streak-stats)
 
 ## auto-language stats
 <!--START_SECTION:languages-->
