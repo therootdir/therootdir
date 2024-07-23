@@ -7,9 +7,9 @@ you really are summoning me, huh? i'm dougsec, unlike everyone who prefers dougl
 > {cyber-warlock} • {purple path} • Day:{coding(in dark_mode)} • Night:{h#%k!ng, YouTube}
 
 ## /root id
-from day one, i've been a secret tech nerd with a heart and curiosity to explore the hidden side of people around the world and somehow naturally got into cybersecurity, where my passion for hacking continues to grow and loving every bit of "reverse engineering" i delve even deeper into software dev roles. if not on here, you might find my cybersec content on [youtube](https://www.youtube.com/@douglascybersec) and i love to connect on 𝕏/Twitter.
+from day one, i've been a secret tech nerd with a heart and curiosity to explore the hidden side of people around the world and somehow naturally got into cybersecurity, where my passion for hacking continues to grow and loving every bit of "reverse engineering" i delve even deeper into software dev roles. if not on here, you might find my cybersec content on [youtube](https://www.youtube.com/@douglascybersec) and for now i interact on [𝕏/Twitter](https://x.com/douglascybersec)
 
-## find me
+## // reach more links
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@douglascybersec)
 [![𝕏/Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/douglascybersec)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/D0ugS3c0p5)
@@ -18,7 +18,7 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/douglascybersec)
 
 
-## watch
+## // latest on youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Networking, IP Addresses &amp; Spoofing - the basics&lpar;for beginners&rpar; | Staying Anon EP 2](https://www.youtube.com/watch?v=Ix67YzkeiJg)
@@ -27,10 +27,10 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 - [Pro Tip: What to Do After Installing Kali Linux.](https://www.youtube.com/watch?v=Vos7DCTqvSM)
 - [Cybersecurity: Do I need to learn Programming? //Programming languages for cybersecurity unveiled.](https://www.youtube.com/watch?v=JvutduJyXqc)<!-- YOUTUBE-VIDEOS-LIST:END -->
 
-## git contributions
+## // git contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglascybersec&theme=highcontrast)](https://git.io/streak-stats)
 
-## auto-language stats
+## // auto-language stack
 <!--START_SECTION:languages-->
 
 - Python: 99.97%
@@ -43,7 +43,7 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 <!--END_SECTION:languages-->
 
 
-## 🎵 pleasures
+## // pleasures
 - 👨🏾‍💻 privately developing peacemaker (sec) hacker tools
 - ☕ coffee, code, build, secure, hack, eat, create and repeat
 - 👨🏾‍🍳 i'm a chef for me, my 'sudo queen' and our kids, except some of it is a dream
