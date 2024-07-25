@@ -44,12 +44,12 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 
 
 ## // pleasures
-- 👨🏾‍💻 privately developing peacemaker (sec) hacker tools
-- ☕ coffee, code, build, secure, hack, eat, create and repeat
+- 👨🏾‍💻 privately developing peacemaker (security) hacker tools
+- ☕ coffee, code, build, secure, hack, eat, nap, create and repeat
 - 👨🏾‍🍳 i'm a chef for me, my 'sudo queen' and our kids, except some of it is a dream
-- 🎸 fun fact 02: i transform poetry into lyrics during my free ethical hours, too
+- 🎸 fun fact 02: i transform poetry into lyrics in my absolutely free ethical hours, too
 
 ---
-Remember: stay curious, embrace malware, be aware, and always **hack ethically!**
+Remember buddy: stay curious, embrace malware, be aware, and always **hack ethically!**
 
 > "if you're not h4ck1n9 or c0d1ng, are you even living?" - DougSec, probably
