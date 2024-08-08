@@ -34,12 +34,12 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 ## // auto-language stack
 <!--START_SECTION:languages-->
 
-- Python: 94.54%
-- JavaScript: 2.40%
-- HTML: 2.10%
-- CSS: 0.76%
-- C: 0.13%
-- Mako: 0.05%
+- Python: 93.40%
+- JavaScript: 2.90%
+- HTML: 2.54%
+- CSS: 0.92%
+- C: 0.16%
+- Mako: 0.06%
 - Rust: 0.01%
 <!--END_SECTION:languages-->
 
