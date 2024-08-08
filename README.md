@@ -23,7 +23,7 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [The Best Kali Linux Book?](https://www.youtube.com/watch?v=UoQKTC1eMj8)
 - [Networking Basics: How it REALLY Works](https://www.youtube.com/watch?v=Ix67YzkeiJg)
-- [Truth about Hacking&lpar;It&#39;s not what you think&rpar; #hacking #cybersecurity #ai #aihacks](https://www.youtube.com/watch?v=p7E3eCIOktY)
+- [Truth about Hacking&lpar;It&#39;s not what you think&rpar;](https://www.youtube.com/watch?v=p7E3eCIOktY)
 - [Kali Linux Upgrade: Secure Your System, Back up with Timeshift [Step-by-Step Guide]](https://www.youtube.com/watch?v=19pD1DGB0dk)
 - [Pro Tip: What to Do After Installing Kali Linux.](https://www.youtube.com/watch?v=Vos7DCTqvSM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
