@@ -37,9 +37,9 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 - Python: 97.35%
 - C++: 1.42%
 - C: 0.40%
-- JavaScript: 0.20%
-- HTML: 0.14%
+- JavaScript: 0.21%
 - PowerShell: 0.14%
+- HTML: 0.13%
 - Cython: 0.12%
 - Mako: 0.11%
 - CSS: 0.10%
