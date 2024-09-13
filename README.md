@@ -35,9 +35,9 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 <!--START_SECTION:languages-->
 
 - Python: 78.30%
-- HTML: 10.82%
+- HTML: 10.81%
 - JavaScript: 6.62%
-- CSS: 4.13%
+- CSS: 4.14%
 - C: 0.13%
 - Rust: 0.01%
 <!--END_SECTION:languages-->
