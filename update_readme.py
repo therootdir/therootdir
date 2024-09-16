@@ -62,13 +62,16 @@ def update_readme(languages):
                 in_section = True
                 file.write(line)
                 file.write('\n')
-                for lang, percentage in sorted(languages.items(), key=lambda x: x[1], reverse=True):
-                    file.write(f'- {lang}: {percentage:.2f}%\n')
+                file.write('| ID | Language | Percentage |\n')
+                file.write('|----|----------|------------|\n')
+                for id, (lang, percentage) in enumerate(sorted(languages.items(), key=lambda x: x[1], reverse=True), 1):
+                    file.write(f'| {id} | {lang} | {percentage:.2f}% |\n')
                 file.write('<!--END_SECTION:languages-->\n')
             elif line.strip() == '<!--END_SECTION:languages-->':
                 in_section = False
             elif not in_section:
                 file.write(line)
+
 
 def main():
     if not GITHUB_TOKEN or not GITHUB_USERNAME:

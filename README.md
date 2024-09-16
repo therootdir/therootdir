@@ -31,16 +31,11 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 ## // git contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglascybersec&theme=highcontrast)](https://git.io/streak-stats)
 
-## // auto-language stack
+## // language proficiency matrix
 <!--START_SECTION:languages-->
 
-- Python: 78.30%
-- HTML: 10.81%
-- JavaScript: 6.62%
-- CSS: 4.14%
-- C: 0.13%
-- Rust: 0.01%
 <!--END_SECTION:languages-->
+
 
 
 ## // pleasures
