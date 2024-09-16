@@ -29,7 +29,7 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## // git contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglascybersec&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglascybersec&theme=shadow-purple&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
 
 ## // language proficiency matrix
 <!--START_SECTION:languages-->
