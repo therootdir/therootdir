@@ -31,7 +31,7 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 ## // git contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglascybersec&theme=shadow-purple&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
 
-## // language proficiency matrix
+## // language matrix
 <!--START_SECTION:languages-->
 
 | ID | Language | Percentage |
