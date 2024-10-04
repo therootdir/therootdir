@@ -10,7 +10,7 @@ you really are summoning me, huh? i'm dougsec, unlike everyone who prefers dougl
 from day one, i've been a secret tech nerd with a heart and curiosity to explore the hidden side of people around the world and somehow naturally got into cybersecurity, where my passion for learning continues to grow and loving every bit of "reverse engineering" (i am an **infoholic**) i love to delve even deeper into software dev roles. if not on here, you might find my cybersec content on [youtube](https://www.youtube.com/@douglascybersec) and for now i interact on [𝕏/Twitter](https://x.com/douglascybersec)
 
 ## // reach more links
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@douglascybersec)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=blueviolet)](https://www.youtube.com/@douglascybersec)
 [![𝕏/Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/douglascybersec)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/D0ugS3c0p5)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/douglascybersec)
