@@ -47,10 +47,12 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 
 
 ## // pleasures
+```
 - 👨🏾‍💻 privately developing (security) tools
 - ☕ coffee, code, build, secure, hack, eat, nap, create and repeat
 - 👨🏾‍🍳 a chef for me, my 'sudo queen' and the kids, except some of it is a dream
 - 🎸 fun fact 02: sometimes transforms poetry into lyrics in my absolutely free ethical hours
+```
 
 ---
 Remember to: stay curious, embrace malware, be aware, and always **hack ethically!**
