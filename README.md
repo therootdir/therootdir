@@ -21,11 +21,11 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 ## // latest on youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build your FIRST Website UI using AI &lpar;easy peasy!&rpar;](https://www.youtube.com/watch?v=AHu4uMpmaNg)
 - [The Best Kali Linux Book?](https://www.youtube.com/watch?v=UoQKTC1eMj8)
 - [Networking Basics: How it REALLY Works](https://www.youtube.com/watch?v=Ix67YzkeiJg)
 - [Truth about Hacking&lpar;It&#39;s not what you think&rpar;](https://www.youtube.com/watch?v=p7E3eCIOktY)
 - [Kali Linux Upgrade: Secure Your System, Back up with Timeshift [Step-by-Step Guide]](https://www.youtube.com/watch?v=19pD1DGB0dk)
-- [Pro Tip: What to Do After Installing Kali Linux.](https://www.youtube.com/watch?v=Vos7DCTqvSM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## // git contributions
