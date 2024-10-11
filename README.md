@@ -36,10 +36,10 @@ from day one, i've been a secret tech nerd with a heart and curiosity to explore
 
 | ID | Language | Percentage |
 |----|----------|------------|
-| 1 | Python | 73.17% |
-| 2 | HTML | 15.49% |
-| 3 | JavaScript | 6.60% |
-| 4 | CSS | 4.54% |
+| 1 | Python | 73.26% |
+| 2 | HTML | 15.44% |
+| 3 | JavaScript | 6.58% |
+| 4 | CSS | 4.52% |
 | 5 | C | 0.20% |
 | 6 | Rust | 0.01% |
 <!--END_SECTION:languages-->
