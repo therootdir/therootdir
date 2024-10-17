@@ -1,4 +1,4 @@
-# hello friend..🕵🏾‍♂️
+# hey cyber buddy..🕵🏾‍♂️
 you really are summoning me, huh? i'm dougsec, unlike everyone who prefers douglas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
