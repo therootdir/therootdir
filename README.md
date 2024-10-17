@@ -8,7 +8,7 @@ you really are summoning me, huh? i'm dougsec, unlike everyone who prefers dougl
 
 ## /root id
 whoami?  well trace me through my commit history...
-_currently learning low-level, aside everything else..._
+_**currently learning low-level, aside everything else...**_
 if not on here, you might find me on [youtube](https://www.youtube.com/@douglascybersec) and [𝕏/Twitter](https://x.com/douglascybersec)
 
 ## // reach more links
