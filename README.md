@@ -7,7 +7,7 @@ you really are summoning me, huh? i'm dougsec, unlike everyone who prefers dougl
 > {cyber-warlock} • {purple path} • Day:{building} • Night:{h#%k!ng, YouTube}
 
 ## /root id
-whoami? well just some reverse-enginerd by default, trace the rest through my commit history...
+just some reverse-enginerd by default, trace the rest through my commit history...
 _**currently learning low-level, aside everything else...**_
 if not on here, you might find me on [youtube](https://www.youtube.com/@douglascybersec) and [𝕏/Twitter](https://x.com/douglascybersec)
 
