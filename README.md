@@ -6,7 +6,7 @@
 ## /root id
 just some reverse-enginerd by default, trace the rest through my commit history...
 _**currently learning low-level, aside everything else...**_
-if not on here, you might find me on [youtube](https://www.youtube.com/@douglascybersec) and [𝕏/Twitter](https://x.com/douglascybersec)
+if not on here, you might find me on the [YouTube](https://www.youtube.com/@douglascybersec) and the [𝕏/Twitter](https://x.com/douglascybersec)
 
 ## // reach more links
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@douglascybersec)
