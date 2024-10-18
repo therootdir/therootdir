@@ -1,6 +1,3 @@
-# hey cyber buddy..🕵🏾‍♂️
-you really are summoning me, huh? i'm dougsec, unlike everyone who prefers douglas
-
 ![Profile Views](https://komarev.com/ghpvc/?username=douglascybersec&color=blueviolet)
 
 ![GIF](https://media.giphy.com/media/r5e5Wv61DyeURRIyAR/giphy.gif)
