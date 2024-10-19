@@ -28,7 +28,7 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@doug
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## // git contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=douglascybersec&theme=shadow-purple&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=therootdir&theme=shadow-purple&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
 
 ## // language matrix
 <!--START_SECTION:languages-->
