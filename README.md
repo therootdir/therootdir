@@ -46,14 +46,13 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@doug
 
 
 ## // pleasures
-```
 - 👨🏾‍💻 privately developing (security) tools
 - ☕ coffee, code, build, secure, hack, eat, nap, create and repeat
 - 👨🏾‍🍳 a chef for me, my 'sudo queen' and the kids, except some of it is a dream
 - 🎸 fun fact 02: sometimes transforms poetry into lyrics in my absolutely free ethical hours
-```
+
 
 ---
-Remember to: stay curious, embrace malware, be aware, and always **hack ethically!**
+_stay curious, embrace malware, be aware, and always **hack ethically!**_
 
 > "if you're not h4ck1n9 or c0d1ng, are you even living?" - DougSec, probably
