@@ -39,7 +39,6 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@doug
 | 3 | JavaScript | 6.54% |
 | 4 | CSS | 4.49% |
 | 5 | C | 0.19% |
-| 6 | Rust | 0.01% |
 <!--END_SECTION:languages-->
 
 
