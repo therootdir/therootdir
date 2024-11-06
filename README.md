@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=therootdir&color=blueviolet)
 
 ![GIF](https://media.giphy.com/media/r5e5Wv61DyeURRIyAR/giphy.gif)
-> {cyber-warlock} • {purple path} • Day:{building} • Night:{h#%k!ng, YouTube}
+> {cyberwar10ck} • {purple path} • Day:{building} • Night:{h#%k!ng}
 
 ## /root id
 just some reverse-enginerd by default, trace the rest through my commit history...
