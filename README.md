@@ -54,4 +54,4 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@doug
 ---
 _stay curious, embrace malware, be aware, and always **hack ethically!**_
 
-> "if you're not h4ck1n9 or c0d1ng, are you even living?" - DougSec, probably
+> "if you're not h4ck1ng or c0d1ng, are you even living?" 
