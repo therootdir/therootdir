@@ -1,10 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=therootdir&color=blueviolet)
 
 ![GIF](https://media.giphy.com/media/r5e5Wv61DyeURRIyAR/giphy.gif)
-> {cyberwar10ck} • {purple path} • Day:{building} • Night:{h#%k!ng}
+> {cyberwar10ck}{purple path}Day:{building}Night:{h#%k!ng}
 
 ## /root id
-just some reverse-enginerd by default, trace the rest through my commit history...
+just some reverse-enginerd by default. trace the rest through my commit history...
 _**currently learning low-level, aside everything else...**_
 if not on here, you might find me on the [YouTube](https://www.youtube.com/@douglascybersec) and the [Twitter(𝕏)](https://x.com/therootdir)
 
@@ -54,4 +54,4 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@doug
 ---
 _stay curious, embrace malware, be aware, and always **hack ethically!**_
 
-> "if you're not h4ck1ng or c0d1ng, are you even living?" 
+> final yap: "if you're not h4ck1ng or c0d1ng, are you even living?" 
