@@ -5,7 +5,7 @@
 > {cyberwar10ck}{purple path}Day:{building} Night:{h#%k!ng}
 
 ## /root id
-just some reverse-enginerd by default. _trace the rest through my commit history._
+just some reverse-enginerd by default. trace the rest through my commit history.
 
 _**currently learning low-level, aside everything else...**_
 
