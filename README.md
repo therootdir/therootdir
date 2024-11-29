@@ -49,7 +49,7 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@doug
 
 
 ## // pleasures
-- 👨🏾‍💻 privately developing (security) tools
+- 👨🏾‍💻 secretly/privately developing (security) tools
 - ☕ coffee, code, build, secure, hack, eat, nap, create and repeat
 - 👨🏾‍🍳 a chef for me, my 'sudo queen' and the kids, except some of it is a dream
 - 🎸 fun fact 02: sometimes transforms poetry into lyrics in my absolutely free ethical hours
