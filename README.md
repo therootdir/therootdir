@@ -37,14 +37,14 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@doug
 
 | ID | Language | Percentage |
 |----|----------|------------|
-| 1 | Python | 96.06% |
+| 1 | Python | 96.02% |
 | 2 | HTML | 2.10% |
 | 3 | JavaScript | 0.94% |
 | 4 | CSS | 0.59% |
 | 5 | PowerShell | 0.15% |
 | 6 | Shell | 0.08% |
-| 7 | C | 0.04% |
-| 8 | Rust | 0.03% |
+| 7 | Rust | 0.07% |
+| 8 | C | 0.04% |
 | 9 | PHP | 0.01% |
 <!--END_SECTION:languages-->
 
