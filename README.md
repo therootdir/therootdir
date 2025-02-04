@@ -38,7 +38,7 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@ther
 | ID | Language | Percentage |
 |----|----------|------------|
 | 1 | Python | 93.80% |
-| 2 | HTML | 2.88% |
+| 2 | HTML | 2.87% |
 | 3 | CSS | 1.44% |
 | 4 | JavaScript | 1.40% |
 | 5 | C | 0.17% |
