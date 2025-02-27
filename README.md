@@ -37,14 +37,14 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@ther
 
 | ID | Language | Percentage |
 |----|----------|------------|
-| 1 | Python | 92.46% |
-| 2 | HTML | 3.22% |
-| 3 | JavaScript | 2.05% |
-| 4 | CSS | 1.72% |
-| 5 | C | 0.21% |
-| 6 | PowerShell | 0.15% |
-| 7 | Rust | 0.10% |
-| 8 | Shell | 0.08% |
+| 1 | Python | 95.02% |
+| 2 | HTML | 2.09% |
+| 3 | JavaScript | 1.33% |
+| 4 | CSS | 1.11% |
+| 5 | PowerShell | 0.16% |
+| 6 | C | 0.14% |
+| 7 | Shell | 0.07% |
+| 8 | Rust | 0.07% |
 | 9 | PHP | 0.01% |
 <!--END_SECTION:languages-->
 
