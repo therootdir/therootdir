@@ -22,7 +22,7 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@ther
 ## // latest on youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Proxies Made Simple For Total Beginners!](https://www.youtube.com/watch?v=K18C_rlnq9c)
+- [Proxies: Explained For Total Beginners!](https://www.youtube.com/watch?v=K18C_rlnq9c)
 - [Make a  PERFECT Landing Page in a Flash! ⚡](https://www.youtube.com/watch?v=f7jtwmR1zRU)
 - [Build your FIRST Website UI using AI &lpar;easy peasy!&rpar;](https://www.youtube.com/watch?v=AHu4uMpmaNg)
 - [The Best Kali Linux Book?](https://www.youtube.com/watch?v=UoQKTC1eMj8)
