@@ -22,7 +22,7 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@ther
 ## // latest on youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Linux Terminal Basics &lpar;for Hackers &amp; Beginners&rpar; Part 1](https://www.youtube.com/watch?v=NW_ZfxhXaTY)
+- [Linux Terminal Basics &lpar;for Hackers &amp; Beginners&rpar; [Part 1]](https://www.youtube.com/watch?v=NW_ZfxhXaTY)
 - [Proxies: Explained For Total Beginners!](https://www.youtube.com/watch?v=K18C_rlnq9c)
 - [Make a  PERFECT Landing Page in a Flash! ⚡](https://www.youtube.com/watch?v=f7jtwmR1zRU)
 - [AI Powered Website Builder That Actually WORKS!](https://www.youtube.com/watch?v=AHu4uMpmaNg)
