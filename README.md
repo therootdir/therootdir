@@ -22,11 +22,11 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@ther
 ## // latest on youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Kali Linux Terminal Basics &lpar;for beginners&rpar; [part 2]](https://www.youtube.com/watch?v=YlpNSimWxRE)
 - [Linux File Permissions Explained in under 5 mins!](https://www.youtube.com/watch?v=SR0YXmdAz7s)
 - [Kali Linux Terminal Basics &lpar;for Beginners&rpar; [Part 1]](https://www.youtube.com/watch?v=NW_ZfxhXaTY)
 - [Proxies: Explained For Total Beginners!](https://www.youtube.com/watch?v=K18C_rlnq9c)
 - [Make a  PERFECT Landing Page in a Flash! ⚡](https://www.youtube.com/shorts/f7jtwmR1zRU)
-- [AI Powered Website Builder That Actually WORKS!](https://www.youtube.com/watch?v=AHu4uMpmaNg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## // git contributions
