@@ -42,7 +42,7 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@ther
 | 3 | JavaScript | 1.46% |
 | 4 | CSS | 1.12% |
 | 5 | PowerShell | 0.16% |
-| 6 | C | 0.14% |
+| 6 | C | 0.13% |
 | 7 | Shell | 0.07% |
 | 8 | Rust | 0.07% |
 | 9 | PHP | 0.01% |
