@@ -22,11 +22,11 @@ if not on here, you might find me on the [YouTube](https://www.youtube.com/@ther
 ## // latest on youtube
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to HACK Logins with Hydra](https://www.youtube.com/watch?v=9QgZM1R86no)
 - [hack anonymously &lpar;with tor and proxychains&rpar;](https://www.youtube.com/watch?v=QOirc9FIQ6k)
 - [how to &lpar;actually&rpar; HACK](https://www.youtube.com/watch?v=vyOTkhSLAKA)
 - [Pro Tip: No More BASH History](https://www.youtube.com/shorts/412VzwujWPQ)
 - [Kali Linux Terminal Basics &lpar;for beginners&rpar; [part 2]](https://www.youtube.com/watch?v=YlpNSimWxRE)
-- [Linux File Permissions Explained in under 5 mins!](https://www.youtube.com/watch?v=SR0YXmdAz7s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## // git contributions
